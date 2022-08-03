@@ -3,6 +3,7 @@
 [![codecov](https://codecov.io/gh/OCA/knowledge/branch/14.0/graph/badge.svg)](https://codecov.io/gh/OCA/knowledge)
 [![Translation Status](https://translation.odoo-community.org/widgets/knowledge-14-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/knowledge-14-0/?utm_source=widget)
 
+
 <!-- /!\ do not modify above this line -->
 
 # knowledge
