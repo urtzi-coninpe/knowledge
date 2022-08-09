@@ -4,6 +4,7 @@
 [![Translation Status](https://translation.odoo-community.org/widgets/knowledge-13-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/knowledge-13-0/?utm_source=widget)
 
 
+
 <!-- /!\ do not modify above this line -->
 
 # Knowledge
